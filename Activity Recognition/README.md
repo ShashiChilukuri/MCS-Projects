@@ -1,3 +1,5 @@
+
+# Activity Recognition Project
 This folder contains following files realted to Assignment1 - Activity Recognition Project
 - Project report: ASU CSE 572 Data Mining - Porfolio Report.pdf
 - Code: Project1.py, project1.ipynb
@@ -12,7 +14,7 @@ In this project, I developed a computing system that can understand human activi
 
 In the first phase I have done data cleaning, noise reduction, data organization and feature extraction.
 
-###Phase 1: Data Cleaning and Organization
+## Phase 1: Data Cleaning and Organization
 
 The data provided is collected using two sources:
 1. Wristband data: Where the subject is wearing the wristband and performing eating actions periodically interspersed with non-eating unknown actions. The wristband provides you with i) accelerometer, ii) gyroscope, iii) orientation, and iv) EMG sensors. The sampling rate is 50 Hz for all the sensors.
