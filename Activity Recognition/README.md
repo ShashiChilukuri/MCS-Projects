@@ -1,6 +1,6 @@
 
 # Activity Recognition Project
-This folder contains following files realted to Assignment1 - Activity Recognition Project
+This folder contains following files realted to Activity Recognition Project
 - Project report: ASU CSE 572 Data Mining - Porfolio Report.pdf
 - Code: Project1.py, project1.ipynb
 
@@ -10,7 +10,7 @@ For code in Project.py
 - All three section are well commented with relevant details
 
 
-In this project, I developed a computing system that can understand human activities. I was provided with data (real world wristband data) for a given activity, specifically eating action mixed with other unknown activities. Aim of this project is to identify the eating activities amongst the noise.
+In this project, I developed a computing system that can understand human activities. For this, I was provided with data (real world wristband data) for a given activity, specifically eating action mixed with other unknown activities. The aim of this project is to identify the eating activities amongst the noise.
 
 In the first phase I have done data cleaning, noise reduction, data organization and feature extraction.
 
