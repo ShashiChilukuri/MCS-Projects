@@ -10,9 +10,9 @@ For code in Project.py
 - All three section are well commented with relevant details
 
 
-In this project, I developed a computing system that can understand human activities. For this, I was provided with data (real world wristband data) for a given activity, specifically eating action mixed with other unknown activities. The aim of this project is to identify the eating activities amongst the noise.
+In this project, developed a computing system that can understand human activities, specifically eating action mixed with other unknown activities. The aim of this project is to identify the eating activities amongst the noise. And for this, I was provided with real world wristband data for a given activity.
 
-In the first phase I have done data cleaning, noise reduction, data organization and feature extraction.
+In the first phase, I have done data cleaning, noise reduction, data organization and feature extraction.
 
 ## Phase 1: Data Cleaning and Organization
 
