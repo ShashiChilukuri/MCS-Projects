@@ -23,3 +23,10 @@ multiplied by 50 and divided by 30. This gives you the corresponding sample numb
 
 ## Phase 2: Feature Extraction
 In this task, need to select and implement five existing feature extraction methods such as Fast Fourier Transform, Discrete Wavelet Transform, a set of statistical features (min, max, avg, std, RMS, energy function), etc. The five types of feature extraction methods can be chosen by you. The aim is to use features that show clear distinction between the actions. A potential way of figuring out features is to plot the raw data, and try to visually understand differences. 
+
+## Phase 3: Feature Extraction
+This step involves reduction of the feature space and keeping only those features which show maximum distance between the two classes (eating and non-eating). Here are the steps
+1. Arranging the feature matrix
+2. Execution of PCA
+3. Make sense of the PCA eigen vectors
+4. Results of PCA
