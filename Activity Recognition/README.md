@@ -30,3 +30,7 @@ This step involves reduction of the feature space and keeping only those feature
 2. Execution of PCA
 3. Make sense of the PCA eigen vectors
 4. Results of PCA
+
+## Phase 4: User Dependent Analysis
+
+## Phase 5: User Independent Analysis
