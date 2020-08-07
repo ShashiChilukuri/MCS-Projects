@@ -32,5 +32,7 @@ This step involves reduction of the feature space and keeping only those feature
 4. Results of PCA
 
 ## Phase 4: User Dependent Analysis
+In this phase, data split is done at user level and applied various classification models on it to check the performance.
 
 ## Phase 5: User Independent Analysis
+In this phase, data split is done on overall data and applied various classificaiton models on it to check the performece.
