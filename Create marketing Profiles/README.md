@@ -1,4 +1,4 @@
-This folder contains following files realted to Assignment1 - Activity Recognition Project
+This folder contains following files realted to Creating marketing profiles Project
 - Project report: ASU CSE 572 Data Mining - Porfolio Report.pdf
 - Code: Project1.py, project1.ipynb
 
