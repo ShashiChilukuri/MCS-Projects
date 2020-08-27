@@ -1,6 +1,6 @@
 This folder contains following files realted to Creating marketing profiles Project
-- Project report: ASU CSE 572 Data Mining - Porfolio Report.pdf
-- Code: Project1.py, project1.ipynb
+- Project reports: ASU CSE 575 Data Visualization - Porfolio Report, Progress-Report.pdf, Executive-Report-Overview, Systems-Documentation-Report-Overview, Individual-Contribution-Report-Overview
+- Code: Team Project.ipynb
 
 
 For code in Project.py
