@@ -1,4 +1,4 @@
-This folder contains following files realted to Creating marketing profiles Project
+This folder contains following files realted to Creating marketing profiles Project.
 - Project reports: ASU CSE 575 Data Visualization - Porfolio Report, Executive-Report-Overview
 - Code: Team Project.ipynb
 
