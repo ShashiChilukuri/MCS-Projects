@@ -4,22 +4,23 @@
 * Here is the sample gray scale image with respective labels 
 ![](1mages/sample_digits.png)
 * Below is the ordered list of code components developed to build the model from scratch:
-1. ReLU (Rectified Linear Unit) activation funtion
-2. Gradient of ReLU Activation
-3. Linear Activation
-4. Gradient of Linear Activation
-5. Softmax-Cross Entropy Loss
-6. Derivative of Softmax-Cross Entropy Loss
-7. Dropout Forward
-8. Dropout Backward
-9. Batch Norm Forward
-10. Batch Norm Backward
-11. Initialization of Parameter 
-12. Adam Optimizer: Initialization and Update
-13. Forward Propagation
-14. Back Propagation
-15. Update Parameters using Batch Gradient
-16. Putting together (Forward + Back Propagation)
-17. Class Prediction
-18. Training and Testing
-19. Accuracy
+1. Load dataset
+2. ReLU (Rectified Linear Unit) activation funtion
+3. Gradient of ReLU Activation
+4. Linear Activation
+5. Gradient of Linear Activation
+6. Softmax-Cross Entropy Loss
+7. Derivative of Softmax-Cross Entropy Loss
+8. Dropout Forward
+9. Dropout Backward
+10. Batch Norm Forward
+11. Batch Norm Backward
+12. Initialization of Parameter 
+13. Adam Optimizer: Initialization and Update
+14. Forward Propagation
+15. Back Propagation
+16. Update Parameters using Batch Gradient
+17. Putting together (Forward + Back Propagation)
+18. Class Prediction
+19. Training and Testing
+20. Accuracy
