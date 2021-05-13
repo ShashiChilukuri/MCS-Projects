@@ -1,4 +1,4 @@
-- Develop marketing Profiles: Developed marketing profiles and classified income using exploratory data analysis and predictive models with 85.4% accuracy.
+- Developed marketing profiles by classifying income and identifying significant factor that influence the income using data analysis, visualization and predictive model (Logistic Regression) with 85.4% accuracy. Used Python (NumPy, Pandas, Matplotlib, Scikit-learn) and Tableau to develop. 
 - Geo-Spatial Analysis: Performed Geo-Spatial analysis on big data using Spark SQL and Scala and identified fifty most significant hot spots. 
 - Image classification: Classifying images of handwritten digits using Density Estimation and Naïve Bayes from scratch.
 - Activity Recognition: Predicting the user activity using machine learning models.
