@@ -1,5 +1,5 @@
 This folder contains following files realted to Creating marketing profiles Project.
-- Project reports: Porfolio Report, Executive-Report-Overview
+- Project reports: Project Report, Project Executive Report
 - Code: Team Project.ipynb
 
 
